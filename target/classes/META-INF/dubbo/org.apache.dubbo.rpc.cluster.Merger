@@ -1,0 +1,2 @@
+append=edu.nuaa.o4raft.common.AppendMerger
+vote=edu.nuaa.o4raft.common.VoteMerger
